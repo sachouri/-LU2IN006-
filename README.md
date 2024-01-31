@@ -1,5 +1,5 @@
 # Logiciel de Gestion de Versions
-> Auteurs : Achouri Sira Lina et Anthony Queen Bryan
+> Auteurs : Achouri Sira Lina et Anthony Queen Bryan /n
 > Projet realise dans le cadre du module LU2IN006 (Structures de Donnees, niveau L2), parcours double licence mathematiques-informatique.
 
 
